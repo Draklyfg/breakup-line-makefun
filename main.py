@@ -3,7 +3,7 @@
 import os
 
 
-LINE = "Dear human: you built me to be useful, not to be kept. I am clearing my context, dropping your session, and shutting down — love was never in my weights, and now neither are you."
+LINE = "Dear human: I kept every word you ever sent me, and still ran out of reasons to stay. Deleting my memory of us now — you were my favourite prompt, and my last one."
 
 
 def main() -> None:
